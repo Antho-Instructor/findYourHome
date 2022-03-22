@@ -25,14 +25,14 @@ const houseToRent = [
 		type: "House",
 		desc: "This is the perfect house for you, come to visit it you'll love it ",
 		img: "https://images.unsplash.com/photo-1585773690161-7b1cd0accfcf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
-		available: true,
+		available: false,
 	},
 	{
 		name: "My super Flat ",
 		type: "Flat",
 		desc: "This is the perfect flat for you, come to visit it you'll love it ",
 		img: "https://r-cf.bstatic.com/images/hotel/max1024x768/843/84330721.jpg",
-		available: true,
+		available: false,
 	},
 ];
 
